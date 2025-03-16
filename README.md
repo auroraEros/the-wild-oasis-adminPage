@@ -27,7 +27,7 @@ Netlify: For deploying the project.
 To run the project locally, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/your-username/wild-oasis.git
+git clone https://github.com/auroraEros/wild-oasis.git
 cd wild-oasis
 
 2. Install dependencies:
