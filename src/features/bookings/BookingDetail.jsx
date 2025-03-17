@@ -14,9 +14,9 @@ import { useMoveBack } from "../../hooks/useMoveBack";
 import useBooking from "./useBooking";
 import Spinner from "../../ui/Spinner";
 import { useNavigate } from "react-router-dom";
-import { useCheckOut } from "./useCheckout";
 import { useDeleteBooking } from "./useDeleteBooking";
 import Empty from "../../ui/Empty";
+import { useCheckOut } from "./useCheckout";
 
 const HeadingGroup = styled.div`
   display: flex;
