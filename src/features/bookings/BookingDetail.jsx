@@ -16,7 +16,7 @@ import Spinner from "../../ui/Spinner";
 import { useNavigate } from "react-router-dom";
 import { useDeleteBooking } from "./useDeleteBooking";
 import Empty from "../../ui/Empty";
-import { useCheckOut } from "./useCheckout";
+import { useCheckOut } from "./useCheckOut";
 
 const HeadingGroup = styled.div`
   display: flex;
